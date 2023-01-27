@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@trpc/client": "^10.9.0",
+    "@trpc/server": "^10.9.0",
+    "zod": "^3.20.2"
+  },
+  "scripts": {
+    "start": "node build/client/client.js"
+  }
+}
